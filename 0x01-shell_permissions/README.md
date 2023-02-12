@@ -1,1 +1,1 @@
-My Shell permissions
+Shell permissions
